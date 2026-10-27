@@ -1,0 +1,6 @@
+{
+  "name": "Movingo",
+  "description": "Professional moving company in Tunisia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
